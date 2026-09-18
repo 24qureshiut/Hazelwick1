@@ -1,0 +1,6 @@
+name1 =input("Enter Your Name")
+name2 =input("Enter Your Name")
+print(name1)
+print(name2)
+print(name1)
+print(name2)
