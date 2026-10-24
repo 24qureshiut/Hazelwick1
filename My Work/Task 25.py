@@ -1,11 +1,7 @@
-num1 = int(input("enter ur first number:"))
-num2 = int(input("enter your second number:"))
+age = int(input("Enter your age:"))
 
-if num1 > num2:
-    print("your first number is greater")
-
-elif num1 == num2:
-    print("your numbers are equal")
+if age >= 13 and age <= 19:
+    print("your a teenager")
 
 else:
-    print("your first number is smaller")
+    print("you're not a teenager")

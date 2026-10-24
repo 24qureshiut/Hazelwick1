@@ -1,7 +1,6 @@
 pig1 = input("Enter the name for a pig:")
 pig2 = input("Enter the name for a pig:")
 pig3 = input("Enter the name for a pig:")
-pig4 = input("Enter the name for a pig:")
 build1 = input("Enter a building material:")
 build2 = input("Enter a building material:")
 build3 = input("Enter a building material:")

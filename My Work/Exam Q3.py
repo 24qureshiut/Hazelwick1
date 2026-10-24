@@ -4,7 +4,7 @@ C=0
 vote=-1
 
 while vote!="End":
-    vote=input("Enter Your Vote.A,B,C?:  ")
+    vote=input("Enter Your Vote. A,B,C?:  ")
     if vote == "A":
         A=A+1
     elif vote == "B":
