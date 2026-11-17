@@ -1,4 +1,4 @@
-number = int(input("Enter a Aura Number of your choice:"))
+number = int(input("Enter a Number of your choice: "))
 print("1 times",number,"is",number*1)
 print("2 times",number,"is",number*2)
 print("3 times",number,"is",number*3)
